@@ -1,0 +1,27 @@
+h1{
+	color: purple;
+	text-shadow: -5px -5px 3px pink, 5px 5px 3px red;
+	font-family: 'Coiny', cursive; 
+}
+
+
+#prrf2{
+	text-align: right;
+	border: 5px solid black;
+	border-radius: 20px 0px 20px 0px;
+	margin-top: 100px;
+	padding: 20px;
+}
+
+body{
+	background: url("../img/fondo2.jpg");
+	background-size: cover;
+}
+
+#prrf1{
+	border: 5px ridge black;
+	border-top: 8px solid green;
+	border-left: 5px dashed yellow;
+	border-right: 5px groove white;
+	border-bottom: 8px double purple;
+}
